@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, I'm Putri Qurrota A'yun👋 I graduated from the Bachelor of Economics Education Program at the Faculty of Economics & Business, Jakarta State University & Data Analytics Bootcamp at RevoU
 
+🌱 I’m currently learning Data Analysis Skills at RevoU
+
+👯 I’m looking to collaborate on job opportunities
 <!--
 **putriqurrotaayun/putriqurrotaayun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
