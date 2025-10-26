@@ -1,18 +1,12 @@
-## Hi, I'm Putri Qurrota A'yun👋 I graduated from the Bachelor of Economics Education Program at the Faculty of Economics & Business, Jakarta State University & Data Analytics Bootcamp at RevoU
-🌱 I’m currently learning Data Analysis Skills at RevoU
+## Hi, I'm Putri Qurrota A'yun👋
 
-👯 I’m looking to collaborate on job opportunities
-<!--
-**putriqurrotaayun/putriqurrotaayun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate from Economic Education and Data Analytics 
 
-Here are some ideas to get you started:
+🌱 Data Analyst Enthusiast and [sharing my learning journey](https://www.threads.com/@p_qurrotaayun) in tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚  Sharing my Economic Knowledge on [YouTube](https://www.youtube.com/channel/UCMxtNalRPk_d7urfaRt6FIw)
+
+📫 How to reach me: just contacted me on my sosial media
+
+![Putri's GitHub stats](https://github-readme-stats.vercel.app/api?username=putriqurrotaayun&show_icons=true&theme=algolia)
+
