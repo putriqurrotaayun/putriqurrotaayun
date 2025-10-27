@@ -69,10 +69,8 @@ I am a data analyst enthusiast with a strong commitment to continuous learning a
 
 | Category | Tools / Competence |
 |-----------|--------------------|
-| **Data Analytics** | Python · SQL · Excel/Spreadsheet · Power BI · Tableau · Looker Studio |
-| **Machine Learning** | Scikit-Learn · K-Means · Logistic Regression |
-| **Research** | Econometrics · Data Cleaning · Hypothesis Testing |
-| **Soft Skills** | Communication · Teamwork · Analytical Thinking |
+| **Data Analytics Skills** | Data Cleaning · EDA · Segmentation · Regression Analysis · A/B Testing · Modeling · Data Visualization |
+| **Soft Skills** | Business Problem Solving · Research · Analysis · Communication · Presentation |
 
 ---
 
