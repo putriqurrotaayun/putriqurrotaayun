@@ -1,12 +1,12 @@
 ## Hi, I'm Putri Qurrota A'yun👋
 
-🎓 Graduate from Economic Education and Data Analytics 
+I am a data analyst enthusiast with a strong commitment to continuous learning
 
-🌱 Data Analyst Enthusiast and [sharing my learning journey](https://www.threads.com/@p_qurrotaayun) in tech
-
-📚  Sharing my Economic Knowledge on [YouTube](https://www.youtube.com/channel/UCMxtNalRPk_d7urfaRt6FIw)
-
-📫 How to reach me: just contacted me on my sosial media
+**About Me**
+- 🎓 Graduate from Economic Education and Data Analytics 
+- 🌱 Data Analyst Enthusiast and [sharing my learning journey](https://www.threads.com/@p_qurrotaayun) in tech
+- 📚  Sharing my Economic Knowledge on [YouTube](https://www.youtube.com/channel/UCMxtNalRPk_d7urfaRt6FIw)
+- 📫 How to reach me: just contacted me on my sosial media
 
 ## 💻 Data Analytics Tools
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
