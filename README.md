@@ -9,7 +9,7 @@ I am a data analyst enthusiast with a strong commitment to continuous learning a
 ## 🌟 About Me
 - 🎓 **Education:** Full Stack Data Analytics — *RevoU*  
 - 🎓 **Education:** Bachelor’s Degree in Economic Education — *Universitas Negeri Jakarta*  
-- 🌱 **Data Analyst Enthusiast** and [sharing my learning journey](https://www.threads.com/@p_qurrotaayun) in tech  
+- 🌱 **Data Analyst Enthusiast** and sharing my learning journey in tech
 - 📚  Sharing my **Economic Knowledge** on [YouTube](https://www.youtube.com/channel/UCMxtNalRPk_d7urfaRt6FIw)  
 
 ---
