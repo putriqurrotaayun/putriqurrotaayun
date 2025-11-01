@@ -65,21 +65,28 @@ I am a data analyst enthusiast with a strong commitment to continuous learning a
 
 ---
 
+## 📚 End-to-End Data Analytics Projects  
+
+- [💰 **Propensity Model To Predict Paylater Adoption**](https://github.com/putriqurrotaayun/Propensity-Model-To-Predict-Paylater-Adoption)  
+  - Built a predictive model to detect fraud transactions with **85% accuracy**.  
+
+- [💳 **Credit Card Fraud & Customer Behavior Analysis**](https://github.com/putriqurrotaayun/Credit-Card-Fraud-Customer-Behavior-Analysis)  
+  - Clustered customer behavior using **K-Means** to identify marketing targets.  
+
+- [📊 **Subscriber Growth Analysis**](https://github.com/putriqurrotaayun/Subscriber-Growth-Analysis)  
+  - Created **interactive dashboard in Tableau** to provide recommendations for annual customer reports.  
+
+- [🚗 **Entry Mid Level Car Analysis**](https://github.com/putriqurrotaayun/Entry-Mid-Level-Car-Analysis)  
+  - Conducted **car market segmentation** to recommend strategies for new product launches.  
+
+---
+
 ## 🛠️ Skills Highlight  
 
 | Category | Tools / Competence |
 |-----------|--------------------|
 | **Data Analytics Skills** | Data Cleaning · EDA · Segmentation · Regression Analysis · A/B Testing · Modeling · Data Visualization |
 | **Soft Skills** | Business Problem Solving · Research · Analysis · Communication · Presentation |
-
----
-
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Putri%20Qurrota%20A'yun-blue?logo=linkedin)](https://linkedin.com/in/putriqurrotaayun)  
-[![GitHub](https://img.shields.io/badge/GitHub-putriqurrotaayun-lightgrey?logo=github)](https://github.com/putriqurrotaayun)  
-[![Email](https://img.shields.io/badge/Email-putriqurrotaayun560@gmail.com-red?logo=gmail)](mailto:putriqurrotaayun560@gmail.com)  
-[![Threads](https://img.shields.io/badge/Threads-@p_qurrotaayun-black?logo=threads)](https://www.threads.net/@p_qurrotaayun)  
 
 ---
 
@@ -97,19 +104,11 @@ I am a data analyst enthusiast with a strong commitment to continuous learning a
 
 ---
 
-## 📚 End-to-End Data Analytics Projects  
+## 🌐 Connect with Me  
 
-- [💰 **Propensity Model To Predict Paylater Adoption**](https://github.com/putriqurrotaayun/Propensity-Model-To-Predict-Paylater-Adoption)  
-  - Built a predictive model to detect fraud transactions with **85% accuracy**.  
-
-- [💳 **Credit Card Fraud & Customer Behavior Analysis**](https://github.com/putriqurrotaayun/Credit-Card-Fraud-Customer-Behavior-Analysis)  
-  - Clustered customer behavior using **K-Means** to identify marketing targets.  
-
-- [📊 **Subscriber Growth Analysis**](https://github.com/putriqurrotaayun/Subscriber-Growth-Analysis)  
-  - Created **interactive dashboard in Tableau** to provide recommendations for annual customer reports.  
-
-- [🚗 **Entry Mid Level Car Analysis**](https://github.com/putriqurrotaayun/Entry-Mid-Level-Car-Analysis)  
-  - Conducted **car market segmentation** to recommend strategies for new product launches.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Putri%20Qurrota%20A'yun-blue?logo=linkedin)](https://linkedin.com/in/putriqurrotaayun)
+[![GitHub](https://img.shields.io/badge/GitHub-putriqurrotaayun-lightgrey?logo=github)](https://github.com/putriqurrotaayun)
+[![Email](https://img.shields.io/badge/Email-putriqurrotaayun560@gmail.com-red?logo=gmail)](mailto:putriqurrotaayun560@gmail.com)
 
 ---
 
