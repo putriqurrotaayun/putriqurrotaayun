@@ -85,22 +85,32 @@ I am a data analyst enthusiast with a strong commitment to continuous learning a
 
 | Category | Tools / Competence |
 |-----------|--------------------|
-| **Data Analytics Skills** | Data Cleaning · EDA · Segmentation · Regression Analysis · A/B Testing · Modeling · Data Visualization |
+| **Data Analytics Skills** | Data Cleaning · EDA · Clustering · Regression Analysis · A/B Testing · Modeling · Data Visualization |
 | **Soft Skills** | Business Problem Solving · Research · Analysis · Communication · Presentation |
 
 ---
 
-## 💻 Data Analytics Technical Skill  
+## 💻 Data Analytics Technical Skills  
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Spreadsheet](https://img.shields.io/badge/Spreadsheet-217346?style=for-the-badge&logo=spreadsheet&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-%23316192.svg?style=for-the-badge&logo=Tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-%23316192.svg?style=for-the-badge&logo=LookerStudio&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+| Tool | Technical Skills |
+|------|------------------|
+| ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Spreadsheet](https://img.shields.io/badge/Spreadsheet-217346?style=for-the-badge&logo=GoogleSheets&logoColor=white) | Data Cleaning · EDA · Pivot Table · Lookup · Power Query · Dashboard · A/B Testing · Regression Analysis |
+| ![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | EDA · JOIN · Window Function · CTE |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow) | Data Cleaning · EDA · Clustering · Machine Learning (Classification) |
+| ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) | Creative Final Deck Presentation · Data Storytelling |
+| ![Tableau](https://img.shields.io/badge/Tableau-005571?style=for-the-badge&logo=tableau&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | Calculated Field · Parameter · Interactive Dashboard · DAX (Power BI) · Power Query |
+
+---
+
+## 📜 Certificates  
+
+| Certificate | Issuer | Date | Link |
+|--------------|---------|------|------|
+| 🎓 **Full Stack Data Analytics** | RevoU | October 2025 | [View Certificate](https://drive.google.com/file/d/1TKLDWUWFw6f-8cnaFUjP364zKfA__AkC/view?usp=drive_link) |
+| 🧠 **Basic & Intermediate SQL Certificate** | HackerRank | October 2025 | [View Certificate](https://www.hackerrank.com/certificates/iframe/de9391aaf2f0) |
+| 📈 **Microsoft Excel Certificate of Completion** | Kerja.id | October 2025 | [View Certificate](https://drive.google.com/file/d/1-N6K4vcH9ebbsGXkbspnBoPZXVdRQjes/view?usp=drive_link) |
+| 📊 **Looker Studio Certificate of Completion** | Kerja.id | October 2025 | [View Certificate](https://drive.google.com/file/d/1ZLh0LcXuR-ydeLrUpzJtvNC3fIEhcGlj/view?usp=drive_link) |
+| 🗣️ **Intermediate English Program** | Central Course | August 2025 | [View Certificate](https://drive.google.com/file/d/1IvxEQgeeLm3b8GFJBYNouRyoAzMhManG/view?usp=sharing) |
 
 ---
 
